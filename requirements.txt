@@ -1,0 +1,7 @@
+dynetx==0.3.2
+jupyter
+matplotlib==3.9.2
+networkx==3.4.2
+numpy==2.0.2
+pandas
+nbconvert==7.16.5
